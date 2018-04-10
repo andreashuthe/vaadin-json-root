@@ -1,0 +1,6 @@
+@import "../valo/valo";
+
+@mixin demotheme {
+  @include valo;
+
+}
